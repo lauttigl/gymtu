@@ -6,8 +6,8 @@ export const NavBar = () => {
     <div>
         <div>
         <nav className='bg-black h-auto'>
-            <div className='p-4'>
-                <h1 className='flex place-content-center text-white text-6xl font-bold'>GYM  <h1 className='text-red-500 text-6xl'> TURONES</h1></h1>
+            <div className='p-4 '>
+                <h1 className='flex place-content-center text-white text-3xl  sm:text-4xl md:text-6xl lg:text-6xl xl:text-6xl font-bold  '>GYM  <h1 className='text-red-500 text-3xl  sm:text-4xl md:text-6xl lg:text-6xl xl:text-6xl'> TURONES</h1></h1>
             </div>
             <div>
                 <ul className='p-4 flex place-content-center '>
