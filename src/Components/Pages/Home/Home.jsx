@@ -22,7 +22,7 @@ export const Home = () => {
   <p className="ml-auto text-lg text-zinc-200 p-6">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel sit sed molestiae laudantium ipsum ducimus totam, consectetur ratione saepe aliquid magni tempora provident corrupti doloremque, libero quisquam rem dolorem ea veniam ullam quia quis. Commodi doloribus nam distinctio soluta cumque. Repellendus aliquid culpa ratione nostrum expedita pariatur, earum praesentium exercitationem beatae cumque, obcaecati .</p>
 </div>
 <div className="flex flex-col items-center">
-  <Link to={`/products`}><button className="btn bg-red-500 hover:bg-black rounded-full p-4 font-bold text-zinc-300">VER TODOS NUESTROS PRODUCTOS</button>
+  <Link to={`/products`}><button className="btn bg-red-500 hover:bg-black rounded-full p-4 m-2 font-bold text-zinc-300">VER TODOS NUESTROS PRODUCTOS</button>
   </Link>
 </div>
 
