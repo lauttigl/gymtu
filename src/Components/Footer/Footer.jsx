@@ -21,7 +21,6 @@ export const Footer = () => {
                         </a>
                     </div>
             </div>
-
             </div>
         </footer>
     </div>
